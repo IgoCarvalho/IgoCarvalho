@@ -2,6 +2,7 @@
 
 # 👋 Olá eu sou Igo Carvalho
 
+<p align="left">
 🧔‍♂️ - Sou desenvolvedor Front-end, tenho pouco mais de 2 anos de experiência, incluindo projetos pessoais, estágio e experiências profissionais.
 
 🧑‍💻 - Nesse período pude desenvolver aplicações e adquirir conhecimento em React (Hooks, Redux, Material UI), Vue (Vuex, Vuetify), React Native, Node e sempre que possível utilizando Typescript.
@@ -9,8 +10,7 @@
 👀 - Sou entusiasta de novas tecnologias, então costumo experimentar novos Frameworks e bibliotecas em projetos pessoais para estudo e aprimorar meu leque de conhecimentos.
 
 🚀 - Atualmente estou focado em conseguir uma oportunidade de emprego, para continuar evoluindo profissional e pessoalmente.
-
-speech_balloon Escre
+</p>
 
 ## 💬 Você também pode me encontrar por aqui:
 
